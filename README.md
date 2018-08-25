@@ -5,7 +5,9 @@ The app does not use any external libraries and is written in raw java.
 
 This project is about combining various ideas and skills used in android developing. They include: 
 
-Storing information in a SQLite database  Integrating Android’s file storage systems into that database 
+Storing information in a SQLite database 
+
+Integrating Android’s file storage systems into that database 
 
 Setting up a Content Provider and use it to access a repository of data  
 
