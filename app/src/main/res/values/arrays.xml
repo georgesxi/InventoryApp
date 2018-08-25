@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_supplier">
+        <item>@string/supplier_ebay</item>
+        <item>@string/supplier_eshop</item>
+        <item>@string/supplier_retail</item>
+        <item>@string/supplier_na</item>
+    </string-array>
+</resources>

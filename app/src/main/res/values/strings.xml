@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <!-- Title for the activity to add an item [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_item">Add an Item</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_product_name">Product Name</string>
+
+    <!-- Label for quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Label for price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <string name="category_supplier">Supplier</string>
+
+    <string name="category_email">Email</string>
+    <string name="category_phone">Phone</string>
+
+    <string name="hint_product_name">Name</string>
+
+    <string name="hint_quantity">Product Quantity</string>
+
+    <string name="hint_price">Item cost?</string>
+
+    <string name="hint_email">mymail@mail.com</string>
+
+    <string name="hint_phone">2110356896</string>
+
+    <string name="currency">  $</string>
+
+    <string name="supplier_ebay">Ebay Supplier</string>
+
+    <string name="supplier_eshop">E-Shop</string>
+
+    <string name="supplier_retail">Retail Store</string>
+    <string name="supplier_na">N/A</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="action_insert_dummy_items">Insert Dummy Items</string>
+    <string name="modify_quantity">Modify Quantity</string>
+
+    <string name="empty_view_title_text">Your Inventory is Empty</string>
+    <string name="empty_view_subtitle_text">You can start by adding an item!</string>
+    <string name="action_delete_all_entries">Delete All Items</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+    <string name="editor_delete_item_successful">Item deleted</string>
+
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="product_details">Product Details</string>
+    <string name="selling_quantity">Add number of sold items:</string>
+    <string name="confirm">Confirm</string>
+    <string name="received_quantity">Enter the received item quantity:</string>
+    <string name="action_edit_product">Edit</string>
+    <string name="unknown">Unknown</string>
+    <string name="not_enabled">This function is not enabled!</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
